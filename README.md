@@ -85,35 +85,35 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### ping command :
-<img width="721" height="865" alt="image" src="https://github.com/user-attachments/assets/ce94690a-3ea3-4aa0-baa1-740fd9d639c6" />
+<img width="487" height="295" alt="image" src="https://github.com/user-attachments/assets/33f72bcb-9775-4aab-9ef9-5022243bdfb2" />
 
 
 ### whois :
-<img width="802" height="445" alt="image" src="https://github.com/user-attachments/assets/645403b4-b53a-40f1-9612-5cc54ff1f851" />
+<img width="1420" height="609" alt="image" src="https://github.com/user-attachments/assets/4de4883c-ac60-4321-985d-81b32fc335ae" />
 
 
 ### netcat :
-<img width="874" height="93" alt="image" src="https://github.com/user-attachments/assets/eb742369-544c-4d19-a300-c0b7849b3632" />
+<img width="618" height="274" alt="image" src="https://github.com/user-attachments/assets/392da415-0dca-44dc-907a-25809cd1ff8b" />
 
 
 ### nmap :
-<img width="762" height="251" alt="image" src="https://github.com/user-attachments/assets/b241cc3d-dd56-47b1-8ce7-9500b7a96119" />
+<img width="716" height="177" alt="image" src="https://github.com/user-attachments/assets/721787ac-837f-4e37-b68f-dc7ac102c673" />
 
 
 ### whatweb :
-<img width="762" height="611" alt="image" src="https://github.com/user-attachments/assets/9ae6eebb-79c2-421d-9288-81b53ad6221e" />
+<img width="1408" height="115" alt="image" src="https://github.com/user-attachments/assets/6804fe36-ba29-468a-85f9-db39a1e95f07" />
 
 
 ### httprint :
-<img width="763" height="382" alt="image" src="https://github.com/user-attachments/assets/7653b0a5-2518-45d5-b17c-c83ed40a8af6" />
+<img width="735" height="622" alt="image" src="https://github.com/user-attachments/assets/23cb4fbf-1755-4a98-a2ac-99b3895c7a7e" />
 
 
 ### TCP traceroute :
-<img width="765" height="681" alt="image" src="https://github.com/user-attachments/assets/f32cfa87-5be5-431c-b923-906d40b506a1" />
+<img width="972" height="196" alt="image" src="https://github.com/user-attachments/assets/bc20b10e-96bc-4f90-a8ea-0a5b142c8c66" />
 
 
 ### UDP traceroute :
-<img width="769" height="574" alt="image" src="https://github.com/user-attachments/assets/c3911f8f-8308-4d76-9e3a-7bcde22ec16c" />
+<img width="1012" height="350" alt="image" src="https://github.com/user-attachments/assets/7e9e5815-8807-4946-9632-afd9355f4c3d" />
 
 
 ## RESULT:
